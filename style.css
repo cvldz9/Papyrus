@@ -336,7 +336,7 @@ bottom: 0;
 
 /*----------JOIN THE CLUB----------*/
 .headerj {
-  background-color: rgb(84, 124, 241);
+  background-color: #b479ff;
   /* background-color: #b479ff; */
   background-position: bottom center;
   background-repeat: no-repeat;
@@ -391,7 +391,7 @@ bottom: 0;
 
 .container_right {
   display: grrid;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 .card {
