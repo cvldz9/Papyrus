@@ -45,6 +45,7 @@ nav ul li a {
 
 nav ul li a:hover {
   color: #0678A9;
+  text-decoration: none;
 }
 
 /*----------BODY OF THE WEBSITE----------*/
