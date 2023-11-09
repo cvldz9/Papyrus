@@ -333,6 +333,148 @@ bottom: 0;
   background: var(--primary);
 }
 
+/*----------JOIN THE CLUB----------*/
+/* .hero-section {
+  width: 100%;
+  height: 600px;
+  padding: 30px;
+  background-color: #FFBF00;
+  border-top: #d9d9d9 1px solid;
+  border-bottom: #d9d9d9 1px solid;
+}
+.section-title {
+  font-size: 25px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+} */
+
+/* .join-details {
+  padding-left: 250px;
+  padding-right: 250px;
+  text-align: center;
+}
+
+.join-club {
+  margin-left: 200px;
+  margin-top: 30px;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 50px;
+  border: none;
+} */
+
+.headerj {
+  background-color: rgb(84, 124, 241);
+  /* background-color: #b479ff; */
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+}
+
+.containerj {
+  max-width: 1200px;
+  margin: auto;
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10rem;
+}
+
+.container_left_h1 {
+  margin-bottom: 2rem;
+  padding-top: 100px;
+  font-size: 2.5rem;
+  font-weight: 500;
+  color: white;
+}
+
+.container_left p {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.container_left_button {
+  padding: 1rem 2rem;
+  margin-top: 1rem;
+  outline: none;
+  border: none;
+  border-radius: 50px;
+  background-color: #ffbf00;
+  color: #313131;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.container_left_h3 {
+  color: #f4f4f4;
+}
+
+.container_left button:hover {
+  background-color: white;
+  color: rgb(84, 124, 241);
+}
+
+.container_right {
+  display: grrid;
+  gap: 2rem;
+}
+
+.card {
+  padding: 2rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  background-color: white;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  margin: 20px;
+}
+
+.card img {
+  max-width: 60px;
+  max-height: 60px;
+  border-radius: 100%;
+}
+
+.card_content {
+  display: flex;
+  gap: 1rem;
+}
+
+.card_content span i {
+  font-size: 2rem;
+  color: rgb(84, 124, 241);
+}
+
+.card_details {
+  font-style: italic;
+  color: #313131;
+  margin-bottom: 1rem;
+  font-size: 12px;
+}
+
+.card_details_h4 {
+  text-align: right;
+  color: rgb(84, 124, 241);
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.card_details_p {
+  text-align: left;
+  color: #313131;
+  font-size: 14px;
+  font-weight: 500;
+}
+
 
 /*----------FOOTER----------*/
 .info-footer {
