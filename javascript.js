@@ -20,3 +20,4 @@ var trendingSlider = new Swiper(".trending-slider", {
       prevEl: ".swiper-button-prev",
     },
   });
+  /*----------END CODE OF TRENDING BOOKS----------*/
